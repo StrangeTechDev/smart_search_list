@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'examples/getting_started_example.dart';
 import 'examples/basic_offline_example.dart';

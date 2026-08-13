@@ -9,7 +9,7 @@ library;
 import 'dart:async';
 import 'dart:math';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:smart_search_list/smart_search_list.dart';
 

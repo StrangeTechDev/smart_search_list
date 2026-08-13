@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:smart_search_list/smart_search_list.dart';
 
 /// Empty States Demo - Shows both no-data and no-results states

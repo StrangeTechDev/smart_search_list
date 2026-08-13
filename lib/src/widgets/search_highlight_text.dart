@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import '../core/fuzzy_utils.dart';
 
 /// A widget that highlights matched portions of [text] based on [searchTerms].
